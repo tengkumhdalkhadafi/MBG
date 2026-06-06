@@ -1,0 +1,42 @@
+// manga.json - V1.0 Rev 0
+{
+  "manga_id": "mhw-001-mbg",
+  "title": "MBG (MAS BAHLIL GANTENG)",
+  "alternative_title": "Handsome Mr. Bahlil",
+  "status": "Ongoing",
+  "author": "Pena Emas",
+  "artist": "Kuas Ajaib",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "type": "Manhwa",
+  "release_year": 2026,
+  "rating": 9.8,
+  "synopsis": "Kisah keseharian Mas Bahlil yang ketampanannya selalu membawa masalah sekaligus keberuntungan di kampung halamannya. Dari ibu-ibu arisan hingga preman pasar, tidak ada yang bisa menolak pesona seorang Mas Bahlil.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/mbg_cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Awal Mula Ketampanan yang Meresahkan",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mbg/ch001/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mbg/ch001/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mbg/ch001/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mbg/ch001/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mbg/ch001/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Insiden di Pasar Malam",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mbg/ch002/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mbg/ch002/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mbg/ch002/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mbg/ch002/004.jpg"
+      ]
+    }
+  ]
+}
